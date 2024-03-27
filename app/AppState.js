@@ -37,6 +37,16 @@ class ObservableAppState extends EventEmitter {
       price: 1.00,
       imgUrl: 'https://i5.walmartimages.com/seo/Starburst-Original-Fruit-Chews-Candy-14-Ounce_1aee9ae2-1a17-480b-acc0-f09f738bee35_2.4fb507e600787d387bcf67eebedaf556.jpeg'
     }),
+    // new Snack({
+    //   name: "Sweet Tarts",
+    //   price: 1.25,
+    //   imgUrl: 'https://i5.walmartimages.com/asr/d8c69033-0013-42ee-8f01-89abe2f02397.99cd2204e171c27d640b965a8c6b8466.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF'
+    // }),
+    // new Snack({
+    //   name: "Air Heads",
+    //   price: 10.25,
+    //   imgUrl: 'https://popsamerica.com/133-large_default/airheads-watermelon.jpg'
+    // }),
   ]
 
 }
